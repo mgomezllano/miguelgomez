@@ -5,11 +5,11 @@ title: " "
 layout: splash
 permalink: /
 header:
-  image: assets/images/dams.jpg
+  image: assets/images/dams2.jpg
 intro: 
   - excerpt: "Background information."
 feature_row:
-  - image_path: assets/images/XXX.jpg
+  - image_path: assets/images/avatar.jpg
     alt: "Rates influence the rate at which information decays/"
     title: "Information decay and ancestral states"
     excerpt: "How does information flow and decay from the tips to the nodes during ancestral state reconstruction?"
