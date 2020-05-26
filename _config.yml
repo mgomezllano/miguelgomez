@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Miguel Gomez"
   avatar : "/assets/images/avatar.jpg"
-  bio    : "Postdoctoral fellow, Siepielski Lab, University of Arkansas"
+  bio    : "Postdoctoral associate, Siepielski Lab, University of Arkansas"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
