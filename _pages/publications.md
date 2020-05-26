@@ -5,7 +5,7 @@ layout: splash
 author_profile: false
 ---
 
-# Maps of mass mortality event locations
+# Publications
 Pub
 Pub
 
