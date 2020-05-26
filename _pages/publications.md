@@ -6,12 +6,12 @@ author_profile: true
 
 # Peer reviewed journals
 
-- **Gomez-LLano, M.**, Narasimhan, A., and Svensson, E. (In press). Parasites load reveal
+- **Gomez-LLano, M.**, Narasimhan, A., and Svensson, E. (*In press*). Parasites load reveal
 condition-dependent sexual selection for local adaptation in the wild. *The American Naturalist*.
 
-- **Gomez-Llano, M.**, Bench, H. and Svensson, E. 2018. Ecology relaxes sexual conflict: heterospecific males reduce sexual harassment and increase female survival. *Evolution* 72(4): 906-915 [pdf](https://mgomezllano.github.io/miguelgomez/assets/papers/Evol2018.pdf).
-
 - Svensson, E., Goedert, D., **Gomez-Llano, M.**, Spagopoulou, F., Nava-Bolaños, A., and Booksmythe, I. 2018. Sex differences in local adaptation: what can we learn from reciprocal transplant experiments? *Phil. Trans. R. Soc. B* 373: 20170420 [pdf](https://mgomezllano.github.io/miguelgomez/assets/papers/PhilTrans2018.pdf).
+
+- **Gomez-Llano, M.**, Bench, H. and Svensson, E. 2018. Ecology relaxes sexual conflict: heterospecific males reduce sexual harassment and increase female survival. *Evolution* 72(4): 906-915 [pdf](https://mgomezllano.github.io/miguelgomez/assets/papers/Evol2018.pdf).
 
 - Svensson, E., **Gomez-Llano, M.**, Bench, H. and Rivas, A. 2018. Frequency dependence opposes ecological drift in spite of niche similarity of interaction species. *The American Naturalist* 191(6): 691-703 [pdf](https://mgomezllano.github.io/miguelgomez/assets/papers/AmNat2018.pdf).
 
