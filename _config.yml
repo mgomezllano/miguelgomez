@@ -61,6 +61,7 @@ author:
   name   : "Miguel Gomez"
   avatar : "/assets/images/avatar.jpg"
   bio    : "Postdoctoral associate, Siepielski Lab, University of Arkansas"
+  email: "magomezl@uark.edu"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
