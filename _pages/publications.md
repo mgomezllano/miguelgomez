@@ -2,6 +2,8 @@
 permalink: /publications/
 title: " "
 author_profile: true
+
+[191(6): 691-703]:({{ site.baseurl }}{% link assets/papers/AmNat2018.pdf %})
 ---
 
 # Peer reviewed journals
@@ -24,4 +26,3 @@ condition-dependent sexual selection for local adaptation in the wild. *The Amer
 
 **Gomez-LLano, M.** & Velarde, S. La desarticulación de las políticas ambientales y la ciudadanía: El caso del manglar Tajamar y el Nevado de Toluca. *In: La ciudadanía y el medio ambiente en México: apuntes críticos para su análisis*. Cháves, R., Particia, R and de la Cueva, H (Coord.). 2019. EL Colegio de la Frontera Norte. 360pp
 
-[191(6): 691-703]:({{ site.baseurl }}{% link assets/papers/AmNat2018.pdf %})
