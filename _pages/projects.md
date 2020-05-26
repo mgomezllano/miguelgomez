@@ -1,8 +1,7 @@
 ---
 permalink: /projects/
 title: " "
-author_profile: false
-layout: splash
+author_profile: true
 ---
 
 # Sexual selection and local adaptation
