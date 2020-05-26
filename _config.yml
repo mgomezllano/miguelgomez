@@ -61,9 +61,8 @@ author:
   name   : "Miguel Gomez"
   avatar : "/assets/images/avatar.jpg"
   bio    : "Postdoctoral associate, Siepielski Lab, University of Arkansas"
-  
+  email: "magomezl@uark.edu"
   links:
-    - email: "magomezl@uark.edu"
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=a_2FQl4AAAAJ&hl=en"
     - label: "Twitter"
