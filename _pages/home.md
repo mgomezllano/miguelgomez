@@ -20,6 +20,9 @@ feature_row:
     excerpt: "How can we better utilize the information we have?"
 ---
 
+---
+image: /assets/images/dams.jpg
+---
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
