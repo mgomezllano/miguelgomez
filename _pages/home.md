@@ -5,7 +5,7 @@ title: " "
 layout: splash
 permalink: /
 header:
-  image: /assets/images/dams5.jpg
+  image: /assets/images/dams2.jpg
 intro: 
   - excerpt: "Background information."
 feature_row:
