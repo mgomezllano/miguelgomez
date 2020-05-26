@@ -13,7 +13,7 @@ condition-dependent sexual selection for local adaptation in the wild. *The Amer
 
 - **Gomez-Llano, M.**, Bench, H. and Svensson, E. 2018. Ecology relaxes sexual conflict: heterospecific males reduce sexual harassment and increase female survival. *Evolution* 72(4): 906-915
 
-- Svensson, E., **Gomez-Llano, M.**, Bench, H. and Rivas, A. 2018. Frequency dependence opposes ecological drift in spite of niche similarity of interaction species. *The American Naturalist* 191(6): 691-703. [download pdf](https://mgomezllano.github.io/assets/papers/AmNat2018.pdf) PDF.
+- Svensson, E., **Gomez-Llano, M.**, Bench, H. and Rivas, A. 2018. Frequency dependence opposes ecological drift in spite of niche similarity of interaction species. *The American Naturalist* 191(6): 691-703. [pdf](https://mgomezllano.github.io/assets/papers/EcoEvo2016.pdf).
 
 - **Gómez-Llano, M.**, Navarro-López, E. & Gilman, T. (2016). The coevolution of sexual imprinting by males and females. *Ecology and Evolution* 6(19): 71131-7125
 
