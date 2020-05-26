@@ -3,7 +3,7 @@ title: " "
 layout: splash
 permalink: /
 header:
-  image: /assets/images/lake.jpg
+  image: /assets/images/lake2.png
 intro: 
   - excerpt: "Background information."
 feature_row:
