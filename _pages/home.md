@@ -5,7 +5,7 @@ title: " "
 layout: splash
 permalink: /
 header:
-  image: /assets/images/dams2.jpg
+  image: /assets/images/dams5.jpg
 intro: 
   - excerpt: "Background information."
 feature_row:
@@ -22,6 +22,6 @@ feature_row:
     excerpt: "How can we better utilize the information we have?"
 ---
 
-{% include feature_row id="intro" type="center" %}
+% include feature_row id="intro" type="center" %
 
-{% include feature_row %}
+% include feature_row %
