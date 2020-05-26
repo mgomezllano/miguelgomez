@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publictions"
 layout: splash
-author_profile: false
+author_profile: true
 ---
 
 # Publications
