@@ -1,14 +1,11 @@
 
 ---
-image: /assets/images/dams.jpg
----
----
 
 title: " "
 layout: splash
 permalink: /
 header:
-  image: /assets/images/dams.jpg
+  image: assets/images/dams.jpg
 intro: 
   - excerpt: "Background information."
 feature_row:
