@@ -17,7 +17,7 @@ condition-dependent sexual selection for local adaptation in the wild. *The Amer
 
 - **Gómez-Llano, M.**, Navarro-López, E. & Gilman, T. (2016). The coevolution of sexual imprinting by males and females. *Ecology and Evolution* 6(19): 71131-7125 [pdf](https://mgomezllano.github.io/assets/papers/EcoEvo2016.pdf).
 
-- Llusia, D., **Gómez, M.**, Penna, M. & Márquez, R. 2013. Call Transmission Efficiency in Native and Invasive Anurans: Competing Hypotheses of Divergence in Acoustic Signals. *PloS ONE*, 8(10): e77312 [pdf](https://mgomezllano.github.io/assets/PO2013.pdf).
+- Llusia, D., **Gómez, M.**, Penna, M. & Márquez, R. 2013. Call Transmission Efficiency in Native and Invasive Anurans: Competing Hypotheses of Divergence in Acoustic Signals. *PloS ONE*, 8(10): e77312 [pdf](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2409).
 
 
 # Book chapters
