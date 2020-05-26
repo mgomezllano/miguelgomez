@@ -2,6 +2,7 @@
 permalink: /publications/
 title: " "
 author_profile: false
+layout: splash
 ---
 
 # Peer reviewed journals
