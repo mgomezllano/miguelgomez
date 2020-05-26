@@ -1,8 +1,10 @@
 ---
-permalink: /causes/
-title: "Causes"
+permalink: /about/
+title: "About"
+author_profile: true
+image: /assets/images/avatar.jpg
+
+
+I'm a postdoctoral associate in Adam Siepielski lab. My research is focused in the interactions between sexual selection, local adaptation and community ecology. My research integrates 1) how sexual selection promotes local adaptation, 2) how is sexual selection mediated by ecological factors, such as interspecific interactions, and 3) how does sexual selection and local adaptation promote or inhibit species coexistence. I mainly work with damselflies as they are a really good system to study species coexistence and for their strong sexual selection. However, I often use theoretical models and the odd fruitfly project.
+
 ---
-
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
