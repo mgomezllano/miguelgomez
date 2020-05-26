@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: " "
-author_profile: false
+author_profile: true
 layout: archive
 ---
 ![alt](https://mgomezllano.github.io/miguelgomez/assets/images/avatar1.jpg){: .align-left}
