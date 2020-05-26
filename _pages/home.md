@@ -1,7 +1,7 @@
 
 ---
 
-title: "Miguel Gomez"
+title: " "
 layout: splash
 permalink: /
 header:
