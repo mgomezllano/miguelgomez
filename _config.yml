@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Home
-email: simontye@uark.edu
+email: magomezl@uark.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -59,28 +59,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Simon Tye"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Phd student, Siepielski Lab, University of Arkansas"
+  name   : "Miguel Gomez"
+  avatar : "/assets/images/avatar.jpg"
+  bio    : "Postdoctoral fellow, Siepielski Lab, University of Arkansas"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://simontye.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Simon_Vigil"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/simontye"
+      url: "https://twitter.com/mgomezllano"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Simon_Vigil"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/simontye"
+      url: "https://twitter.com/mgomezllano"
 
 defaults:
   # _posts
