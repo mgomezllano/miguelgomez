@@ -1,0 +1,9 @@
+main:
+  - title: "Causes"
+    url: /causes/
+  - title: "Impacts"
+    url: /impacts/
+  - title: "Maps"
+    url: /maps/
+  - title: "Models"
+    url: /models/
