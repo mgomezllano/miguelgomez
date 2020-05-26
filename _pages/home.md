@@ -7,11 +7,11 @@ header:
 intro: 
   - excerpt: "Background information."
 feature_row:
-  - image_path: /assets/images/avatar.jpg
+  - image_path: assets/images/XXX.jpg
     alt: "Rates influence the rate at which information decays/"
     title: "Information decay and ancestral states"
     excerpt: "How does information flow and decay from the tips to the nodes during ancestral state reconstruction?"
-  - image_path: /assets/images/lake.jpg
+  - image_path: /assets/images/XXX.jpg
     alt: "This took place over 2.1 Billion Years ago. I'm sure we can trust it."
     title: "Reconstructing primary endosmybiosis"
     excerpt: "In what kind of environment did primary endosymbiosis take place and should ask that question?"
@@ -20,9 +20,6 @@ feature_row:
     excerpt: "How can we better utilize the information we have?"
 ---
 
----
-image: /assets/images/dams.jpg
----
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
