@@ -3,6 +3,7 @@ permalink: /about/
 title: " "
 author_profile: false
 layout: splash
+  header:
   image: /assets/images/avatar.jpg
 ---
 
