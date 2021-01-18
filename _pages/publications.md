@@ -6,8 +6,8 @@ author_profile: true
 
 # Peer reviewed journals
 
-- **Gomez-LLano, M.**, Narasimhan, A., and Svensson, E. (*In press*). Parasites load reveal
-condition-dependent sexual selection for local adaptation in the wild. *The American Naturalist*.
+- **Gomez-LLano, M.**, Narasimhan, A., and Svensson, E. 2020. Parasites load reveal
+condition-dependent sexual selection for local adaptation in the wild. *The American Naturalist*. 196(3)
 
 - Svensson, E., Goedert, D., **Gomez-Llano, M.**, Spagopoulou, F., Nava-Bolaños, A., and Booksmythe, I. 2018. Sex differences in local adaptation: what can we learn from reciprocal transplant experiments? *Phil. Trans. R. Soc. B* 373: 20170420 [pdf](https://mgomezllano.github.io/miguelgomez/assets/papers/PhilTrans2018.pdf).
 
